@@ -1,8 +1,15 @@
-<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" align="right" alt="India Justice Report: An Insightful Overview"/>
+<div align="center">
+
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
+
 
 Welcome to the India Justice Report project, a comprehensive resource that ranks states in India based on their capacity to deliver justice. This project is a vital tool for policymakers, researchers, and anyone interested in understanding the justice landscape in India.
 
 [Explore the Project](https://empress.eco/) | [Documentation](https://grow.empress.eco/) | [Report a Bug](https://github.com/empress-eco/india_justice_report/issues) | [Request a Feature](https://github.com/empress-eco/india_justice_report/issues)
+
+</div>
+
+
 
 ## About The Project
 
